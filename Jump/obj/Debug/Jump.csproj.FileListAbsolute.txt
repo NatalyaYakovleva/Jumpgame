@@ -1,0 +1,10 @@
+E:\VisualStudioCommunity\WinForm\Прыжки\jump\Jump\bin\Debug\Jump.exe.config
+E:\VisualStudioCommunity\WinForm\Прыжки\jump\Jump\bin\Debug\Jump.exe
+E:\VisualStudioCommunity\WinForm\Прыжки\jump\Jump\bin\Debug\Jump.pdb
+E:\VisualStudioCommunity\WinForm\Прыжки\jump\Jump\obj\Debug\Jump.csprojAssemblyReference.cache
+E:\VisualStudioCommunity\WinForm\Прыжки\jump\Jump\obj\Debug\Jump.Form1.resources
+E:\VisualStudioCommunity\WinForm\Прыжки\jump\Jump\obj\Debug\Jump.Properties.Resources.resources
+E:\VisualStudioCommunity\WinForm\Прыжки\jump\Jump\obj\Debug\Jump.csproj.GenerateResource.cache
+E:\VisualStudioCommunity\WinForm\Прыжки\jump\Jump\obj\Debug\Jump.csproj.CoreCompileInputs.cache
+E:\VisualStudioCommunity\WinForm\Прыжки\jump\Jump\obj\Debug\Jump.exe
+E:\VisualStudioCommunity\WinForm\Прыжки\jump\Jump\obj\Debug\Jump.pdb
